@@ -1,0 +1,6 @@
+# ignore pickle
+*.pickle
+# ignore csv
+*.csv
+#ignore h5
+*.h5
